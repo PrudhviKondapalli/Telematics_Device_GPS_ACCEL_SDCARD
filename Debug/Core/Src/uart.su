@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm4.h:1724:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Core/Src/uart.c:40:6:Uart2Config	8	static
+../Core/Src/uart.c:83:6:UART2_SendChar	16	static
+../Core/Src/uart.c:93:6:UART2_GetChar	16	static
+../Core/Src/uart.c:108:6:UART2_SendString	16	static
+../Core/Src/uart.c:116:6:usart2_call	8	static

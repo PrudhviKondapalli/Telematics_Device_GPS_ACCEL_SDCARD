@@ -1,0 +1,7 @@
+core_cm4.h:1724:22:__NVIC_DisableIRQ	2
+core_cm4.h:1816:22:__NVIC_SetPriority	2
+uart.c:40:6:Uart2Config	1
+uart.c:83:6:UART2_SendChar	2
+uart.c:93:6:UART2_GetChar	2
+uart.c:108:6:UART2_SendString	2
+uart.c:116:6:usart2_call	5

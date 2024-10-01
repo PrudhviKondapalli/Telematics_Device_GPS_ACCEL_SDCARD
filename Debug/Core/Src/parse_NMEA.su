@@ -1,0 +1,5 @@
+../Core/Src/parse_NMEA.c:34:5:gps_fix_check	24	static
+../Core/Src/parse_NMEA.c:49:6:GGA_analysis	128	static
+../Core/Src/parse_NMEA.c:191:5:valid_data_check	24	static
+../Core/Src/parse_NMEA.c:207:5:speed_data_check	24	static
+../Core/Src/parse_NMEA.c:222:6:RMC_analysis	112	static

@@ -1,0 +1,2 @@
+../Core/Src/systick.c:11:6:incr_ticks	4	static
+../Core/Src/systick.c:18:6:delay_ms_systick	40	static
